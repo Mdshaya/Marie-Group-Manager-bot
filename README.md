@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support 
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://is.gd/dFBg7K)](https://heroku.com/deploy?template=https://github.com/Mynameisuaername/Marie-Group-Manager-bot/tree/main)
+[![Deploy](https://telegra.ph/file/075e983234d047ef3e3b1.png)](https://heroku.com/deploy?template=https://github.com/Mynameisuaername/Marie-Group-Manager-bot/tree/main)
 
 ## Starting the bot.
 
